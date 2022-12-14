@@ -1,0 +1,28 @@
+id: I33A0B7B6
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 10:36:37.386301+00:00
+last_modified: 2022-12-14 10:36:37.386305+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-10-01T03:52:40.912Z'
+  creationid: esukhia
+  eft-text-id: UT22084-066-018
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_260-The_Akasagarbha_Sutra-v1
+bases:
+  18B9:
+    source_metadata: null
+    order: 1
+    base_file: 18B9.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
